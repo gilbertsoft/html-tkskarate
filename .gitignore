@@ -16,4 +16,3 @@
 /.mysql_history
 /.cache/*
 /cnf/nginx-*.conf
-/www/index.html
